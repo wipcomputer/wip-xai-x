@@ -1,6 +1,6 @@
 {
   "name": "@wipcomputer/wip-xai-x",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "X Platform API. Read posts, search tweets, post, upload media.",
   "type": "module",
   "main": "core.mjs",
